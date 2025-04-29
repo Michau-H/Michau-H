@@ -14,6 +14,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ROOT](https://img.shields.io/badge/ROOT-000000?style=for-the-badge&logo=cern&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Beginner
 ![Geant4](https://img.shields.io/badge/Geant4-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
