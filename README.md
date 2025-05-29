@@ -29,7 +29,7 @@
 - Numerical Methods in Physics and Engineering - [Repository](https://github.com/Michau-H/numerical-methods-in-physics)
 - Introduction to Theoretical Physics - [Repository](https://github.com/Michau-H/theoretical-physics)
 - Data analysis in particle physics (c++, root)
-- Digital Signal Processing (Matlab)
+- Digital Signal Processing - [Repository](https://github.com/Michau-H/digital-signal-processing/tree/main)
 - Simulation and Analysis of Electronic Circuts (Qucs, Multisim, Cadence, Verilog)
 
 ## 📚 My previous projects:
