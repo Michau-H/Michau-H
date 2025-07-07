@@ -18,8 +18,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Beginner
-![Geant4](https://img.shields.io/badge/Geant4-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-14354C?style=for-the-badge&logo=verilog&logoColor=white)
+![Geant4](https://img.shields.io/badge/Geant4-0A0A0A?style=for-the-badge&logo=geant4&logoColor=white)
 
 
 ## 🔭 I’m currently working on projects:
