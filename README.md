@@ -28,10 +28,8 @@
 
 ## 🌱 I’m currently learning as a courses in my university program:
 - Numerical Methods in Physics and Engineering - [Repository](https://github.com/Michau-H/numerical-methods-in-physics)
-- Introduction to Theoretical Physics - [Repository](https://github.com/Michau-H/theoretical-physics)
+- Modeling of Flow Systems
 - Data analysis in particle physics (c++, root)
-- Digital Signal Processing - [Repository](https://github.com/Michau-H/huffman-compression)
-- Simulation and Analysis of Electronic Circuts (Qucs, Multisim, Cadence, Verilog)
 
 ## 📚 My previous projects:
 - Reconstruction of particle tracks using deep neural network in python using PyTorch (Particle Physics Summer School IFJ PAN)
@@ -39,6 +37,9 @@
 - Simulation of ALFA detector from ATLAS experiment with GEANT4 (course: Programming environment GEANT4)
 - Data analysis using python for needs of physics experiments (courses: Physics Laboratory, Nuclear Techniques Laboratory, Solid State Physics Laboratory)
 - Object-Oriented basic projects (course: C++) - [Repository](https://github.com/Michau-H/object-oriented-cpp)
+- Introduction to Theoretical Physics - [Repository](https://github.com/Michau-H/theoretical-physics)
+- Simulation and Analysis of Electronic Circuts (Qucs, Multisim, Cadence, Verilog)
+- Digital Signal Processing - [Repository](https://github.com/Michau-H/huffman-compression)
 
 ## 📘 Other completed courses:
 
