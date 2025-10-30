@@ -21,6 +21,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-14354C?style=for-the-badge&logo=verilog&logoColor=white)
 ![Geant4](https://img.shields.io/badge/Geant4-0A0A0A?style=for-the-badge&logo=geant4&logoColor=white)
+![FLUKA](https://img.shields.io/badge/FLUKA-4479A1?style=for-the-badge&logo=geant4&logoColor=white)
 
 
 ## 🔭 I’m currently working on projects:
@@ -29,7 +30,9 @@
 ## 🌱 I’m currently learning as a courses in my university program:
 - Numerical Methods in Physics and Engineering - [Repository](https://github.com/Michau-H/numerical-methods-in-physics)
 - Modeling of Flow Systems
-- Data analysis in particle physics (c++, root)
+- Interaction of Ionising Radiation with Matter (FLUKA)
+- Radiation Detectors
+
 
 ## 📚 My previous projects:
 - Reconstruction of particle tracks using deep neural network in python using PyTorch (Particle Physics Summer School IFJ PAN)
@@ -40,6 +43,7 @@
 - Introduction to Theoretical Physics - [Repository](https://github.com/Michau-H/theoretical-physics)
 - Simulation and Analysis of Electronic Circuts (Qucs, Multisim, Cadence, Verilog)
 - Digital Signal Processing - [Repository](https://github.com/Michau-H/huffman-compression)
+- Data analysis in particle physics (c++, root)
 
 ## 📘 Other completed courses:
 
