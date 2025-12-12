@@ -2,6 +2,7 @@
 
 ## 🎓 Education:
 - *in progress* **BSc in Technical Physics** - Faculty of Physics and Applied Computer Science, AGH University of Krakow
+- *in progress* **Data Science course** - EPAM Campus
 
 ## Technologies & Languages
 
@@ -29,7 +30,7 @@
 
 ## 🌱 I’m currently learning as a courses in my university program:
 - Numerical Methods in Physics and Engineering - [Repository](https://github.com/Michau-H/numerical-methods-in-physics)
-- Modeling of Flow Systems
+- Modeling of Flow Systems - [Repository](https://github.com/MUPAGH2025/2hubczak)
 - Interaction of Ionising Radiation with Matter (FLUKA)
 - Radiation Detectors
 
