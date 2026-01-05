@@ -66,7 +66,7 @@
 
 ## 📫 How to reach me:
 - Email: [hubczakm@gmail.com](mailto:hubczakm@gmail.com)
-- LinkedIn: [Michał Hubczak](www.linkedin.com/in/michal-hubczak)
+- LinkedIn: [Michał Hubczak](https://linkedin.com/in/michal-hubczak)
  <!--
 ## 📚 Some of my notable repositories:
 - [Project 1 - Machine Learning Model](https://github.com/johndoe/project1)
