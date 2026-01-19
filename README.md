@@ -1,6 +1,6 @@
-# Hi there, I'm Michał Hubczak👋  
+# Hi there, I'm Michał Hubczak  
 
-## 🎓 Education:
+## Education:
 - *in progress* **BSc in Technical Physics** - Faculty of Physics and Applied Computer Science, AGH University of Krakow
 - *in progress* **Data Science course** - EPAM Campus
 
@@ -25,17 +25,17 @@
 ![FLUKA](https://img.shields.io/badge/FLUKA-4479A1?style=for-the-badge&logo=geant4&logoColor=white)
 
 
-## 🔭 I’m currently working on projects:
+## I’m currently working on projects:
 - Analysis of "Noisy Channels" in UT detector from LHCb experiment (python)
 
-## 🌱 I’m currently learning as a courses in my university program:
+## I’m currently learning as a courses in my university program:
 - Numerical Methods in Physics and Engineering - [Repository](https://github.com/Michau-H/numerical-methods-in-physics)
 - Modeling of Flow Systems - [Repository](https://github.com/MUPAGH2025/2hubczak)
 - Interaction of Ionising Radiation with Matter (FLUKA)
 - Radiation Detectors
 
 
-## 📚 My previous projects:
+## My previous projects:
 - Reconstruction of particle tracks using deep neural network in python using PyTorch (Particle Physics Summer School IFJ PAN)
 - Studies on fashion mnist dataset in python using Scikit-learn (course: Fundamentals of Data Science) - [Repository](https://github.com/Michau-H/Fundamentals-of-Data-Science)
 - Simulation of ALFA detector from ATLAS experiment with GEANT4 (course: Programming environment GEANT4)
@@ -46,25 +46,25 @@
 - Digital Signal Processing - [Repository](https://github.com/Michau-H/huffman-compression)
 - Data analysis in particle physics (c++, root)
 
-## 📘 Other completed courses:
+## Other completed courses:
 
-- 🧮 **Mathematical Analysis**
-- 🧊 **Linear Algebra**
-- 📊 **Mathematical Statistics**
-- 🪐 **Classical Mechanics**
-- ⚡ **Electromagnetism and Optics**
-- 🧿 **Introduction to Quantum and Statistical Physics**
-- ☢️ **Introduction to Nuclear Physics**
-- 🧱 **Introduction to Solid State Physics**
-- 🌱 **Introduction to Environmental Physics**
-- 🌌 **Special and General Theory of Relativity**
-- 🧫 **Introduction to Nanotechnology**
-- 🔌 **Electronic Circuits**
-
-
+- **Mathematical Analysis**
+- **Linear Algebra**
+- **Mathematical Statistics**
+- **Classical Mechanics**
+- **Electromagnetism and Optics**
+- **Introduction to Quantum and Statistical Physics**
+- **Introduction to Nuclear Physics**
+- **Introduction to Solid State Physics**
+- **Introduction to Environmental Physics**
+- **Special and General Theory of Relativity**
+- **Introduction to Nanotechnology**
+- **Electronic Circuits**
 
 
-## 📫 How to reach me:
+
+
+## How to reach me:
 - Email: [hubczakm@gmail.com](mailto:hubczakm@gmail.com)
 - LinkedIn: [Michał Hubczak](https://linkedin.com/in/michal-hubczak)
  <!--
