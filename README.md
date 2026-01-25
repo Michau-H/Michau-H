@@ -36,6 +36,7 @@
 - Reconstruction of particle tracks using deep neural network in python using PyTorch (Particle Physics Summer School IFJ PAN)
 - Studies on fashion mnist dataset in python using Scikit-learn (course: Fundamentals of Data Science) - [fashion_mnist](https://github.com/Michau-H/Fundamentals-of-Data-Science)
 - Simple library for linear regression - [myRegression](https://github.com/Michau-H/linear_regression)
+- Few Data Science projects in python during EPAM course - EDA, regression, classification, clustering, decision trees, Deep Learning (PyTorch), ML engineering (Docker, MLflow)
 #### Simulations:
 - Object-Oriented basic projects (course: C++) - [OOP_C++](https://github.com/Michau-H/object-oriented-cpp)
 - Simulations of physics phenomena - [theoretical_physics](https://github.com/Michau-H/theoretical-physics), [numerical_methods](https://github.com/Michau-H/numerical-methods-in-physics)
