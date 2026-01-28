@@ -28,26 +28,31 @@
 ![FLUKA](https://img.shields.io/badge/FLUKA-4479A1?style=for-the-badge&logo=geant4&logoColor=white)
 
 
-## Current project:
-- Analysis of 'noisy channels' in the LHCb UT detector. Using GMM clustering and dimensionality reduction to introduce a monitoring system.
+## Current projects:
+#### EPAM course: Data Science + ML engineering task.
+Building an ML pipeline combining Natural Language Processing (NLP) with MLOps tools.  
+
+#### BSc Thesis: Research on Intelligent Detector Monitoring System.
+Conducting research to design a monitoring system for the LHCb UT detector using Python and Unsupervised Machine Learning methods (GMM Clustering, PCA).
 
 ## Previous projects:
 #### ML & Data Science:
 - Reconstruction of particle tracks using deep neural network in python using PyTorch (Particle Physics Summer School IFJ PAN)
-- Studies on fashion mnist dataset in python using Scikit-learn (course: Fundamentals of Data Science) - [fashion_mnist](https://github.com/Michau-H/Fundamentals-of-Data-Science)
+- Training framework for cross-validation of PyTorch models with optimal epoch selection for small datasets - [TorchResearchCV](https://github.com/Michau-H/torch-cv)
 - Simple library for linear regression - [myRegression](https://github.com/Michau-H/linear_regression)
 - Few Data Science projects in python during EPAM course - EDA, regression, classification, clustering, decision trees, Deep Learning (PyTorch), ML engineering (Docker, MLflow)
+- Studies on fashion mnist dataset in python using Scikit-learn (course: Fundamentals of Data Science) - [studies_on_fashion_mnist](https://github.com/Michau-H/Fundamentals-of-Data-Science)
 #### Simulations:
-- Object-Oriented basic projects (course: C++) - [OOP_C++](https://github.com/Michau-H/object-oriented-cpp)
+- Modeling of Flow Systems using shallow water model - [flow_systems](https://github.com/Michau-H/shallow-water)
 - Simulations of physics phenomena - [theoretical_physics](https://github.com/Michau-H/theoretical-physics), [numerical_methods](https://github.com/Michau-H/numerical-methods-in-physics)
-- Modeling of Flow Systems using shallow water model - [flow_systems](https://github.com/MUPAGH2025/2hubczak)
 - Interaction of Ionising Radiation with Matter (FLUKA)
 - Simulation of ALFA detector from ATLAS experiment with GEANT4 (course: Programming environment GEANT4)
 - Simulation and Analysis of Electronic Circuts (Qucs, Multisim, Cadence, Verilog)
 #### Data analysis
-- Data analysis using python for needs of physics experiments (courses: Physics Laboratory, Nuclear Techniques Laboratory, Solid State Physics Laboratory)
+- Python scripts for processing experimental data (courses: Physics Laboratory, Nuclear Techniques Laboratory, Solid State Physics Laboratory)
 - Data analysis in particle physics (c++, root)
 #### Other projects
+- Object-Oriented basic projects (course: C++) - [OOP_C++](https://github.com/Michau-H/object-oriented-cpp)
 - Digital Signal Processing project for huffman compression `.txt` files (c++) - [huffman](https://github.com/Michau-H/huffman-compression)
 
 
