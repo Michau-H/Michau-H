@@ -1,7 +1,7 @@
 # Michał Hubczak  
 
 ## Education:
-- *in progress* **BSc in Technical Physics** - Faculty of Physics and Applied Computer Science, AGH University of Krakow
+- **BSc in Technical Physics** - Faculty of Physics and Applied Computer Science, AGH University of Krakow
 - *in progress* **Data Science course** - EPAM Campus
 
 ## Technologies & Languages
