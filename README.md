@@ -3,7 +3,9 @@
 ## Education:
 - *in progress* **MSc in Technical Physics (Particle Interaction & Detection)**  - Faculty of Physics and Applied Computer Science, AGH University of Krakow
 - **BSc in Technical Physics** - Faculty of Physics and Applied Computer Science, AGH University of Krakow
-- *in progress* **Data Science course** - EPAM Campus (specialization: Natural Language Processing)
+
+### Certificates
+- **Data Science course** - EPAM Campus
 
 ## Technologies & Languages
 
@@ -30,13 +32,12 @@
 
 
 ## Current projects:
-#### EPAM course: Data Science + ML engineering task.
-Building an ML pipeline combining Natural Language Processing (NLP) with MLOps tools.  
+#### LHCb colaboration: B -> DK decay analysis
 
+## Previous projects:
 #### BSc Thesis: Research on Intelligent Detector Monitoring System.
 Conducting research to design a monitoring system for the LHCb UT detector using Python and Unsupervised Machine Learning methods (GMM Clustering, PCA).
 
-## Previous projects:
 #### ML & Data Science:
 - Reconstruction of particle tracks using deep neural network in python using PyTorch (Particle Physics Summer School IFJ PAN)
 - Training framework for cross-validation of PyTorch models with optimal epoch selection for small datasets - [TorchResearchCV](https://github.com/Michau-H/torch-cv)
